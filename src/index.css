@@ -1,0 +1,39 @@
+body {
+  margin:2;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  
+  background-color: rgb(215, 228, 218);
+}
+
+code {
+  font-family: 'Courier New',
+    monospace;
+}
+
+
+p{
+  margin: 15px;
+}
+
+.App-link{
+  color: #729520;
+}
+
+h5{
+  margin: 25px;
+}
+
+.row{
+  margin: 15px;
+}
+
+form{
+  margin: 40px;
+}
+
+.form{
+  margin:30px;
+  background-color: rgb(138, 145, 161);
+  
+
+}
